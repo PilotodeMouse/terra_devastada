@@ -1,0 +1,8 @@
+2024/11/05-03:01:57.143633 7fa38dfbf700 Recovering log #292
+2024/11/05-03:01:57.149686 7fa38dfbf700 Delete type=3 #290
+2024/11/05-03:01:57.149737 7fa38dfbf700 Delete type=0 #292
+2024/11/06-01:51:19.429036 7fa38bfbb700 Level-0 table #298: started
+2024/11/06-01:51:19.429660 7fa38bfbb700 Level-0 table #298: 0 bytes OK
+2024/11/06-01:51:19.432917 7fa38bfbb700 Delete type=0 #296
+2024/11/06-01:51:19.433071 7fa38bfbb700 Manual compaction at level-0 from '!scenes!s07f7c7kZolttnQr' @ 72057594037927935 : 1 .. '!scenes.drawings!s07f7c7kZolttnQr.tknJxDRQI82ETqXx' @ 0 : 0; will stop at (end)
+2024/11/06-01:51:19.452690 7fa38bfbb700 Manual compaction at level-1 from '!scenes!s07f7c7kZolttnQr' @ 72057594037927935 : 1 .. '!scenes.drawings!s07f7c7kZolttnQr.tknJxDRQI82ETqXx' @ 0 : 0; will stop at (end)

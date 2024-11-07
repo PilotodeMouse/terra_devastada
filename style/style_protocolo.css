@@ -1,0 +1,57 @@
+@font-face {
+    font-family: "SpecialElite";
+    src: url("fonts/SpecialElite-Regular.ttf");
+    font-weight: normal;
+}
+@font-face {
+    font-family: "TradeWinds";
+    src: url("fonts/TradeWinds-Regular.ttf");
+    font-weight: normal;
+}
+
+/* Font control of general text in Foundry in general */
+body {
+  font-family: "SpecialElite"; /* Dont remove the colon at the end!!! */
+  font-size: 14px; /* change only the number! */
+}
+
+.window-app .window-content {
+    background-color: white;
+    font-family: "SpecialElite";
+}
+
+.custom-system-actor {
+   background: url("img/fundo_protocolo.jpg") repeat;
+}
+
+h1.charname {
+  font-family: "TradeWinds";
+}
+
+strong {
+  font-family: "SpecialElite";
+}
+
+.custom-system-label-bold {
+    font-family: "SpecialElite";
+}
+
+.custom-system-cell-boldTitle {
+    font-family: "SpecialElite";
+}
+
+.item.active {
+    font-family: "SpecialElite";
+}
+
+.label_fondotexto {
+        background-color: rgba(255,255,255,0.5);
+}
+/* Tabs in sheets! */
+.tabs .item {
+ font-family: "TradeWinds";
+  font-weight: bold;
+  font-size: 20px;
+}
+
+

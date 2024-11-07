@@ -1,0 +1,127 @@
+/* Font Families Initialization! Add more here before you use */
+/* Copy the entire paragraph and paste it below, then change the name and the url */
+/* Finally, use the name in font-family in the rest of the style page */
+
+@import url('https://fonts.googleapis.com/css2?family=Trade+Winds&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+
+@font-face {font-family: 'Trade Winds', cursive;
+  font-family: 'Special Elite', cursive;
+  font-family: MinionPro;
+  src:url(fonts/MinionPro-Medium.otf);
+}
+
+/* ------------------------------ */
+
+/* ------!!!! ------- */
+/* ---------- DO NOT REMOVE THE ; SEMI COLON PUNTO Y COMA  AT THE END OF EVERY LINE !!! ---- */
+/* ------!!!! ------- */
+
+/* Character sheet background and Font Color */
+.sandbox.sheet .window-content {
+  color: #6c1414; /* Change color code, include the hash tag! */
+  /* Replace LINK_TO_IMAGE from the web to an image you like for a background or place it in img folder */
+  /* Image should be sized on about 720p and not be too heavy */
+  background: url(img/fundo_protocolo.jpg) repeat; /* Replace no-repeat with repeat for pattern images */
+  overflow-y: hidden; /* change between hidden and auto to show vertical scroll bar in sheets. Good for long sheets */
+}
+
+/* Font control of general text in Foundry in general */
+body {
+  font-family: "Special Elite", sans-serif; /* Dont remove the colon at the end!!! */
+  font-size: 14px; /* change only the number! */
+}
+
+/* Tabs in sheets! */
+.sandbox.sheet .tabs .item {
+ font-family: 'Trade Winds', cursive;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+/* Font and color control for Panel Headers */
+.sandbox.sheet .panelheader {
+ font-family: 'Special Elite', cursive;
+  font-size: 14px; /* change only the number! */
+  background-color: #630707; /* Background color for panel header */
+}
+
+/* Character sheet input text background color fields */
+.sandbox.sheet [class^="flexblock-"] input {
+  font-family: 'Special Elite', cursive;
+  font-size: 12px;
+  background-color: #a8b3b3;
+}
+
+/* Character sheet input text in tables (items) */
+/* You can delete this paragraph if you want it to be same as the input text above */
+.sandbox.sheet [class^="flexblock-"] td input {
+  font-family: Special Elite, sans-serif;
+  font-size: 12px;
+  background-color: #a8b3b3;
+}
+
+/* How cItems in tables behave when you move your mouse over!!! */
+.sandbox.sheet .linkable:hover {
+    color: #6f1311;
+	font-family: Special Elite, sans-serif; /* Not a good idea to change fonts when passing the mouse but... */
+	font-size: 14px; /* Make it bigger or smaller when mouse over? */
+    font-weight: bold; /* try bold - bolder - normal - lighter */
+}
+
+/* Labels fonts and style */
+.sandbox.sheet [class*="label-"] {
+  font-family: Special Elite, sans-serif;
+  font-size: 13px;
+}
+
+/* Character sheet table header colors */
+.sandbox.sheet thead {
+  background-color: #606c71;
+}
+
+/* Character sheet empty table cell colors */
+.sandbox.sheet tr.empty-row {
+  background-color: #C0C0C0;
+}
+
+/* Table Body background color */
+tbody.table {
+  background-color: #b8b9bb;
+}
+
+/* Table cells fonts */
+.sandbox.sheet td {
+  font-family: Special Elite, sans-serif;
+  font-size: 14px;
+}
+
+/* ---- NEW Sep-26 ----- */
+
+/* Change shadow colors and Foundry general font color!! */
+.app {
+  box-shadow: 0 0 20px #7e4444; /* Change the color code here for a nice shadow color! */
+  color: #dfdfdf; /* Text color for window titles and menu all across Foundry */
+}
+
+/* Character and Item Name Titles Text style! */
+.sandbox.sheet .charname input {
+    color:#630707;
+    font-family: "Special Elite", sans-serif;
+    font-size: 30px;
+    font-style: normal;
+}
+
+/* Customize the chat roll area! */
+#chat-form textarea {
+  background: url(img/parchment.jpg) repeat; /* Replace with some url with image or url in img folder */
+  font-family: Special Elite; /* Text font in dice */
+  font-size: 14px; /* Text size in dice dialog */
+  color: black; /* Text color in dice dialog */
+}
+
+/* Customize the chat history area! */
+#chat-log .message {
+  background: url(img/parchment.jpg) repeat; /* Replace with some url with image or url in img folder */
+  color: #191813; /* Text color */
+}
