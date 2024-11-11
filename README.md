@@ -1,6 +1,3 @@
-Aqui está o README formatado em Markdown para o GitHub, incluindo links para a Retropunk Editora e o canal correto do Mestre Digital:
-
-```markdown
 # Terra Devastada - Mundo Base para Foundry VTT
 
 Bem-vindo ao mundo base de **Terra Devastada** para o **Foundry VTT**! Este projeto traz uma adaptação completa do cenário de apocalipse zumbi para mesas virtuais, utilizando o sistema Custom System Builder (versão 4.1.1) com suporte ao Foundry VTT versão 12, build 331.
