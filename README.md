@@ -1,6 +1,6 @@
 # Terra Devastada - Mundo Base para Foundry VTT
 
-Bem-vindo ao mundo base de **Terra Devastada** para o **Foundry VTT**! Este projeto traz uma adaptação completa do cenário de apocalipse zumbi para mesas virtuais, utilizando o sistema Custom System Builder (versão 4.1.1) com suporte ao Foundry VTT versão 12, build 331.
+Bem-vindo ao mundo base de **Terra Devastada** para o **Foundry VTT**! Este projeto adapta o cenário de apocalipse zumbi de Terra Devastada para mesas virtuais, utilizando o sistema Custom System Builder (versão 4.1.1) e Foundry VTT versão 12, build 331.
 
 ## Recursos Principais
 
@@ -33,11 +33,18 @@ Para facilitar a preparação de aventuras, o mundo já vem com exemplos de fich
 - Módulo [**Custom System Builder**](https://foundryvtt.com/packages/custom-system-builder) versão 4.1.1 para a estrutura do sistema.
 - Módulo [**Dice So Nice**](https://foundryvtt.com/packages/dice-so-nice) para as animações e funcionamento das macros de dados.
 
-## Instalação
-1. Certifique-se de que o Foundry VTT está atualizado para a versão necessária.
-2. Instale o módulo Custom System Builder e o módulo Dice So Nice.
-3. Baixe o pacote de mundo de **Terra Devastada** e coloque na pasta correta do Foundry VTT.
-4. Ative o mundo base e ajuste as configurações conforme necessário.
+## Como Usar no Foundry VTT
+
+Para instalar este mundo base diretamente no Foundry VTT, utilize os links abaixo:
+
+- **URL do Repositório**: [https://github.com/PilotodeMouse/terra_devastada](https://github.com/PilotodeMouse/terra_devastada)
+- **Manifesto para Instalação**: [https://raw.githubusercontent.com/PilotodeMouse/terra_devastada/refs/heads/main/world.json](https://raw.githubusercontent.com/PilotodeMouse/terra_devastada/refs/heads/main/world.json)
+- **Download Direto**: [https://github.com/PilotodeMouse/terra_devastada/archive/refs/heads/main.zip](https://github.com/PilotodeMouse/terra_devastada/archive/refs/heads/main.zip)
+
+Para adicionar este mundo no Foundry VTT:
+1. Vá para a seção "Mundos" no Foundry VTT.
+2. Clique em "Instalar Mundo" e insira o link do manifesto.
+3. Ative o mundo base e ajuste as configurações conforme necessário.
 
 ## Licença e Incentivo à Compra do Material Oficial
 Este material de apoio é baseado no sistema **Terra Devastada**, criado por **John Bogéa** e licenciado pela [Retropunk Editora](https://retropunk.com.br/editora/roleplaying/terra_devastada_edicao_apocalipse/). Recomendamos fortemente a aquisição do material original para apoiar o trabalho dos criadores e garantir uma experiência completa e autêntica para suas campanhas de apocalipse zumbi.
