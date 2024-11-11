@@ -29,10 +29,9 @@ Para facilitar a preparação de aventuras, o mundo já vem com exemplos de fich
 - **NPCs** - Outros sobreviventes e figuras importantes no cenário apocalíptico.
 - **Zumbis** - Diversos tipos de mortos-vivos prontos para desafiar os personagens.
 
-## Requisitos
-- **Foundry VTT** versão 12 (build 331) ou superior.
-- **Custom System Builder** versão 4.1.1 para a estrutura do sistema.
-- Módulo **Dice So Nice** para as animações e funcionamento das macros de dados.
+## Instalações Obrigatórias
+- Módulo [**Custom System Builder**](https://foundryvtt.com/packages/custom-system-builder) versão 4.1.1 para a estrutura do sistema.
+- Módulo [**Dice So Nice**](https://foundryvtt.com/packages/dice-so-nice) para as animações e funcionamento das macros de dados.
 
 ## Instalação
 1. Certifique-se de que o Foundry VTT está atualizado para a versão necessária.
@@ -41,10 +40,7 @@ Para facilitar a preparação de aventuras, o mundo já vem com exemplos de fich
 4. Ative o mundo base e ajuste as configurações conforme necessário.
 
 ## Licença e Incentivo à Compra do Material Oficial
-Este material de apoio é baseado no sistema **Terra Devastada**, que é uma propriedade intelectual licenciada pela [Retropunk Editora](https://retropunk.net/editora/). Recomendamos fortemente a aquisição do material original para apoiar o trabalho dos criadores e garantir uma experiência completa e autêntica para suas campanhas de apocalipse zumbi.
+Este material de apoio é baseado no sistema **Terra Devastada**, criado por **John Bogéa** e licenciado pela [Retropunk Editora](https://retropunk.com.br/editora/roleplaying/terra_devastada_edicao_apocalipse/). Recomendamos fortemente a aquisição do material original para apoiar o trabalho dos criadores e garantir uma experiência completa e autêntica para suas campanhas de apocalipse zumbi.
 
 ## Créditos
-Este mundo base foi criado com o suporte das macros de dados desenvolvidas pelo [Mestre Digital](https://www.youtube.com/c/MestreDigital). Agradecimentos especiais à [Retropunk](https://retropunk.net/editora/) e ao autor do sistema **Terra Devastada** por criarem e adaptarem esse cenário icônico para mesas de RPG.
-```
-
-Esse Markdown está otimizado para o GitHub, com todos os links e estrutura que você mencionou.
+Este mundo base foi criado com o suporte das macros de dados desenvolvidas pelo [Mestre Digital](https://www.youtube.com/c/MestreDigital). Agradecimentos especiais à [Retropunk Editora](https://retropunk.com.br/editora/roleplaying/terra_devastada_edicao_apocalipse/) e ao autor **John Bogéa** por criarem e adaptarem esse cenário icônico para mesas de RPG.
