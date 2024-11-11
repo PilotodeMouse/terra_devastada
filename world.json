@@ -1,32 +1,35 @@
 {
-  "title": "Terra Devastada",
-  "id": "terra_devastada",
-  "system": "custom-system-builder",
-  "coreVersion": "12.331",
-  "version": "0.0.1",
-  "compatibility": {
-    "minimum": "12",
-    "verified": "12.331"
-  },
-  "systemVersion": "4.1.1",
-  "safeMode": false,
-  "description": "<p>Ruas desertas, vidraças quebradas, carros abandonados, buracos de balas nas paredes dos prédios, sangue, moscas e pedaços de carne pútrida decorando todo o ambiente. Esse é o atual cenário na maioria das cidades do mundo, locais que hoje são apenas cidades fantasmas totalmente devastadas.</p><p>O silêncio é quebrado apenas pelo gemido e andar trôpego dos infectados por um vírus, que perambulam sem rumo por entre as ruas. Às vezes solitários, às vezes em grandes grupos, eles caçam, matam e os que não são completamente devorados retornam como membros dessas turbas de monstros. É impossível encontrar um lugar seguro e esperar que eles simplesmente desapareçam.</p><p>Eles estão mortos, mas vivos. Alguns deles eram pessoas conhecidas, amigos e parentes, agora são apenas esfomeados, irracionais e sujos. Criaturas em perfeita harmonia com o novo ambiente desastroso do mundo. Enquanto nós, sobreviventes - humanos - estamos em processo de extinção. Somos o elemento estranho nesse novo bioma.</p>",
-  "lastPlayed": "Wed Nov 06 2024 01:51:19 GMT+0000 (Coordinated Universal Time)",
-  "playtime": 1797127,
-  "background": "worlds/terra_devastada/Videos/zumbis.webp",
-  "joinTheme": "default",
-  "packs": [
-    {
-      "label": "Macros - Terra Devastada V12",
-      "type": "Macro",
-      "name": "macros-terra-devastada-v12",
-      "path": "packs/macros-terra-devastada-v12",
-      "system": "custom-system-builder",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "flags": {}
-    }
-  ]
+    "title": "Terra Devastada",
+    "id": "terra_devastada",
+    "system": "custom-system-builder",
+    "coreVersion": "12.331",
+    "version": "0.0.1",
+    "compatibility": {
+        "minimum": "12",
+        "verified": "12.331"
+    },
+    "systemVersion": "4.1.1",
+    "safeMode": false,
+    "description": "<p>Ruas desertas, vidraças quebradas, carros abandonados, buracos de balas nas paredes dos prédios, sangue, moscas e pedaços de carne pútrida decorando todo o ambiente. Esse é o atual cenário na maioria das cidades do mundo, locais que hoje são apenas cidades fantasmas totalmente devastadas.</p><p>O silêncio é quebrado apenas pelo gemido e andar trôpego dos infectados por um vírus, que perambulam sem rumo por entre as ruas. Às vezes solitários, às vezes em grandes grupos, eles caçam, matam e os que não são completamente devorados retornam como membros dessas turbas de monstros. É impossível encontrar um lugar seguro e esperar que eles simplesmente desapareçam.</p><p>Eles estão mortos, mas vivos. Alguns deles eram pessoas conhecidas, amigos e parentes, agora são apenas esfomeados, irracionais e sujos. Criaturas em perfeita harmonia com o novo ambiente desastroso do mundo. Enquanto nós, sobreviventes - humanos - estamos em processo de extinção. Somos o elemento estranho nesse novo bioma.</p>",
+    "lastPlayed": "Wed Nov 06 2024 01:51:19 GMT+0000 (Coordinated Universal Time)",
+    "playtime": 1797127,
+    "background": "worlds/terra_devastada/Videos/zumbis.webp",
+    "joinTheme": "default",
+    "packs": [
+        {
+            "label": "Macros - Terra Devastada V12",
+            "type": "Macro",
+            "name": "macros-terra-devastada-v12",
+            "path": "packs/macros-terra-devastada-v12",
+            "system": "custom-system-builder",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            },
+            "flags": {}
+        }
+    ],
+    "url": "https://github.com/PilotodeMouse/terra_devastada",
+    "manifest": "https://raw.githubusercontent.com/PilotodeMouse/terra_devastada/refs/heads/main/world.json",
+    "download": "https://github.com/PilotodeMouse/terra_devastada/archive/refs/heads/main.zip"
 }
